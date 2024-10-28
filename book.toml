@@ -1,0 +1,60 @@
+[book]
+title = "Hoang Ngo's page"
+authors = ["Hoang Ngo"]
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "site"
+create-missing = false
+
+[output.wordcount]
+
+[preprocessor.index]
+enable = true
+
+[preprocessor.links]
+enable = true
+
+[preprocessor.toc]
+enable = true
+
+[theme]
+items = ["about", "projects", "blog"]
+
+[theme.about]
+label = "About"
+path = "src/about/about.md"
+
+[theme.projects]
+label = "Projects"
+path = "src/projects/projects.md"
+
+[theme.blog]
+label = "Blog"
+path = "src/blog/blog.md"
+
+
+[markdown]
+highlight = true
+extensions = ["footnotes", "table"]
+
+[git]
+repository-url = "https://github.com/hoangnv735/hoangnv735.github.io"
+
+[output.html.playground]
+editable = true
+line-numbers = true
+
+# [output.html.code.hidelines]
+# python = "~"
+
+# [output.html.search]
+# limit-results = 20
+# use-boolean-and = true
+# boost-title = 2
+# boost-hierarchy = 2
+# boost-paragraph = 1
+# expand = true
+# heading-split-level = 2
