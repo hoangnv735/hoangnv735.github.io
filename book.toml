@@ -9,7 +9,7 @@ src = "src"
 build-dir = "site"
 create-missing = false
 
-[output.wordcount]
+# [output.wordcount]
 
 [preprocessor.index]
 enable = true
@@ -17,23 +17,24 @@ enable = true
 [preprocessor.links]
 enable = true
 
-[preprocessor.toc]
-enable = true
+# [preprocessor.toc]
+# enable = true
 
-[theme]
-items = ["about", "projects", "blog"]
+# [theme]
+# # items = ["about", "projects", "blog"]
+# items = ["about"]
+#
+# [theme.about]
+# label = "About"
+# path = "src/about/about.md"
 
-[theme.about]
-label = "About"
-path = "src/about/about.md"
-
-[theme.projects]
-label = "Projects"
-path = "src/projects/projects.md"
-
-[theme.blog]
-label = "Blog"
-path = "src/blog/blog.md"
+# [theme.projects]
+# label = "Projects"
+# path = "src/projects/projects.md"
+#
+# [theme.blog]
+# label = "Blog"
+# path = "src/blog/blog.md"
 
 
 [markdown]
@@ -43,12 +44,19 @@ extensions = ["footnotes", "table"]
 [git]
 repository-url = "https://github.com/hoangnv735/hoangnv735.github.io"
 
+# [output.html]
+# additional-css = [
+#     "theme/breakpoint.css",
+#     "theme/custom.css"
+# ]
+
 [output.html.playground]
 editable = true
 line-numbers = true
 
 # [output.html.code.hidelines]
 # python = "~"
+
 
 # [output.html.search]
 # limit-results = 20
