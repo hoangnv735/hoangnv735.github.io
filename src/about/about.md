@@ -1,4 +1,4 @@
-<img src="assets/ava300.jpg" style="display: block; margin-top: 5px; margin-left: 0; margin-right: auto; margin-bottom: 5px; width: 30%; border-radius: 10px;">
+<img src="../../assets/ava300.jpg" style="display: block; margin-top: 5px; margin-left: 0; margin-right: auto; margin-bottom: 5px; width: 30%; border-radius: 10px;">
 
 ## About me
 I’m a Research Resident under the supervision of [Dr. Dat Quoc Nguyen](https://datquocnguyen.github.io) at [VinAI Research](https://vinai.io), Vietnam. I received a bachelor degree in Computer Science from [Hanoi University of Science and Technology](https://hust.edu.vn) where I was supervised by [Dr. Kiem-Hieu Nguyen](https://users.soict.hust.edu.vn/hieunk).
