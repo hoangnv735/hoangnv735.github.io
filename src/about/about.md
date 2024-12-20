@@ -3,7 +3,7 @@
 ## About me
 I’m a Research Resident under the supervision of [Dr. Dat Quoc Nguyen](https://datquocnguyen.github.io) at [VinAI Research](https://vinai.io), Vietnam. I received a bachelor degree in Computer Science from [Hanoi University of Science and Technology](https://hust.edu.vn) where I was supervised by [Dr. Kiem-Hieu Nguyen](https://users.soict.hust.edu.vn/hieunk).
 
-[Email](mailto:ngoviethoang753@gmail.com) | [Google Scholar](https://scholar.google.com/citations?user=TDR3p1EAAAAJ&hl=en&authuser=1) | [Github](https://github.com/hoangnv735) | [LinkedIn](https://www.linkedin.com/in/hoangnv735/) 
+[Email](mailto:ngoviethoang735@gmail.com) | [Google Scholar](https://scholar.google.com/citations?user=TDR3p1EAAAAJ&hl=en&authuser=1) | [Github](https://github.com/hoangnv735) | [LinkedIn](https://www.linkedin.com/in/hoangnv735/) 
 
 ## 🔥 News
 - [2024/09] 📄 Our paper [Who's Who Large Language Models Meet Knowledge Conflicts in Practice](https://arxiv.org/abs/2410.15737) is accepted to EMNLP 2024 Findings!
